@@ -14,4 +14,4 @@ Don't plan on these being fixed
 
 ## How do I use this?
 
-Simple! Go to line 168 and start editing the variables, it's pretty self explanatory
+Simple! Go to line 168 and start editing the variables, it's pretty self explanatory (I have found that numbers < 10000 tend to be what you want to go for)
